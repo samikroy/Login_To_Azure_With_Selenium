@@ -6,3 +6,7 @@
 
 - Console .net appliction to Open Chrome Browser and login to azure.
 - Chrome extension to attach a debugger and enable network on the same tab and capture access token to stoe to a storage account.
+
+
+#### A video demo for this tool is available here 
+https://www.youtube.com/watch?v=U5ineG5Bptk
