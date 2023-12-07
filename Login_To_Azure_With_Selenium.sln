@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_To_Azure_With_Selenium", "Login_To_Azure_With_Selenium\Login_To_Azure_With_Selenium.csproj", "{6F4D568F-44C9-4C60-90D8-79F4D328BFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4D568F-44C9-4C60-90D8-79F4D328BFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4D568F-44C9-4C60-90D8-79F4D328BFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4D568F-44C9-4C60-90D8-79F4D328BFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4D568F-44C9-4C60-90D8-79F4D328BFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D81B686-75FC-4B3B-BA2F-DD8B9B1B999C}
+	EndGlobalSection
+EndGlobal
