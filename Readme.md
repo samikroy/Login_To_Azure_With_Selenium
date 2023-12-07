@@ -4,9 +4,14 @@
 
 ### Components 
 
-- Console .net application to Open Chrome Browser and login to azure.
-- Chrome extension to attach a debugger and enable network on the same tab and capture access token to stoe to a storage account.
+
+  |Component|Purpose|
+  |---------|-------|
+  |Console Application|Open Chrome, Load Extension|
+  |Chrome Extension|Run on a browser,  Attach a debugger, capture bearer token, update to storage accoount|
 
 
 #### A video demo for this tool is available here 
-https://www.youtube.com/watch?v=U5ineG5Bptk
+<a href="https://www.youtube.com/watch?v=U5ineG5Bptk"><img height=300 width=500 src="https://github.com/samikroy/Login_To_Azure_With_Selenium/assets/20562985/9870c5d5-bfa5-471d-a4f8-de4c0a0c0316" /></a>
+
+Please reach out to samik.n.roy for any queries.
